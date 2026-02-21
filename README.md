@@ -22,7 +22,7 @@ This project is private. No one may access, download, copy, or use the code with
 
 ---
 ## Author
-![Author](mhhridoy.jpg) 
+![Author](hridoy.jpg) 
 **Murad Hasan Hridoy** – Developer & Designer  
 ## License
 **All Rights Reserved**  
