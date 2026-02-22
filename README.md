@@ -3,7 +3,7 @@
 This project is private. No one may access, download, copy, or use the code without explicit permission from the author.
 ## Project Preview
 ### Preview 1
-![Preview 1](t/2.png)
+![Preview 1](t/2.png) 
 ### Preview 2
 ![Preview 2](t/1.png)
 ### Preview 3
